@@ -1,0 +1,14 @@
+
+
+<div class="container-fluid">
+  <h1>Random Story</h1>
+  <login-buttons></login-buttons>
+  <div ng-repeat="bodypart in $ctrl.page.body" class="container-fluid">
+    <p>{{bodypart}}</p>
+  </div>
+  <div ng-repeat="choice in $ctrl.choices" class="container-fluid choice" ng-show="$ctrl.currentUser" ng-click="$ctrl.changePage(choice.target_page)">
+    <p>{{choice.description}}
+      <span ng-show="choice.show_influence">Influence: {{choice.influence}}</span>
+    </p>
+  </div>
+</div>

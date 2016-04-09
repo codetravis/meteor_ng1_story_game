@@ -1,0 +1,236 @@
+{
+  "choices": [
+  {
+    "page_name": "start",
+    "description": "Head towards the gunfire to the right",
+    "influence": 0,
+    "show_influence": false,
+    "target_page": "training_1_right"
+  },
+  {
+    "page_name": "start",
+    "description": "Follow the person through the door to the left",
+    "influence": 0,
+    "show_influence": false,
+    "target_page": "training_1_left"
+  },
+  {
+    "page_name": "training_1_left",
+    "description": "Pretend to be shot",
+    "influence": 2,
+    "show_influence": false,
+    "target_page": "training_2_possom"
+  },
+  {
+    "page_name": "training_1_left",
+    "description": "Turn and shoot",
+    "influence": 1,
+    "show_influence": false,
+    "target_page": "training_2_turn_shoot"
+  },
+  {
+    "page_name": "training_1_right",
+    "description": "Shoot the other guy with high ground",
+    "influence": 1,
+    "show_influence": false,
+    "target_page": "training_2_cargo_high"
+  },
+  {
+    "page_name": "training_1_right",
+    "description": "Try to take out the 3 guys below",
+    "influence": 0,
+    "show_influence": false,
+    "target_page": "training_2_cargo_3"
+  },
+  {
+    "page_name": "training_1_right",
+    "description": "Find cover first",
+    "influence": 1,
+    "show_influence": false,
+    "target_page": "training_2_cargo_cover"
+  },
+  {
+    "page_name": "training_2_turn_shoot",
+    "description": "Continue",
+    "influence": 0,
+    "show_influence": false,
+    "target_page": "training_3_hangar_bay"
+  },
+  {
+    "page_name": "training_2_possom",
+    "description": "Continue",
+    "influence": 0,
+    "show_influence": false,
+    "target_page": "training_3_hangar_bay"
+  },
+  {
+    "page_name": "training_2_cargo_high",
+    "description": "Continue",
+    "influence": 0,
+    "show_influence": false,
+    "target_page": "training_3_hangar_bay"
+  },
+  {
+    "page_name": "training_2_cargo_3",
+    "description": "Continue",
+    "influence": 0,
+    "show_influence": false,
+    "target_page": "training_3_hangar_bay"
+  },
+  {
+    "page_name": "training_2_cargo_cover",
+    "description": "Continue",
+    "influence": 0,
+    "show_influence": false,
+    "target_page": "training_3_hangar_bay"
+  },
+  {
+    "page_name": "training_3_hangar_bay",
+    "description": "Shoot behind you as you run for cover",
+    "influence": 1,
+    "show_influence": false,
+    "target_page": "training_3_run_and_shoot"
+  },
+  {
+    "page_name": "training_3_hangar_bay",
+    "description": "Dive behind crate for cover",
+    "influence": 0,
+    "show_influence": false,
+    "target_page": "training_3_dive_for_cover"
+  },
+  {
+    "page_name": "training_3_run_and_shoot",
+    "description": "Continue",
+    "influence": 0,
+    "show_influence": false,
+    "target_page": "training_final"
+  },
+  {
+    "page_name": "training_3_dive_for_cover",
+    "description": "Continue",
+    "influence": 0,
+    "show_influence": false,
+    "target_page": "training_final"
+  },
+  {
+    "page_name": "training_final",
+    "description": "Continue",
+    "influence": 0,
+    "show_influence": false,
+    "target_page": "training_final_1"
+  },
+  {
+    "page_name": "training_final_1",
+    "description": "Find a spot to ambush",
+    "influence": 2,
+    "show_influence": false,
+    "target_page": "training_final_ambush"
+  },
+  {
+    "page_name": "training_final_1",
+    "description": "Guard one of the hallways",
+    "influence": 0,
+    "show_influence": false,
+    "target_page": "training_final_hallway"
+  },
+  {
+    "page_name": "training_final_ambush",
+    "description": "Suggest to provide cover fire for each other as you move from cover to cover, leapfrogging into an advantageous position",
+    "influence": 0,
+    "show_influence": false,
+    "target_page": "training_final_leapfrog"
+  },
+  {
+    "page_name": "training_final_leapfrog",
+    "description": "Continue",
+    "influence": 0,
+    "show_influence": false,
+    "target_page": "merc_start_checkpoint"
+  },
+  {
+    "page_name": "training_final_ambush",
+    "description": "Suggest using a nearby cargo bay lift vehicle to create a diversion",
+    "influence": 1,
+    "show_influence": false,
+    "target_page": "training_final_diversion"
+  },
+  {
+    "page_name": "training_final_diversion",
+    "description": "Continue",
+    "influence": 0,
+    "show_influence": false,
+    "target_page": "merc_start_checkpoint"
+  },
+  {
+    "page_name": "training_final_hallway",
+    "description": "Shoot immediately, its really every man for himself",
+    "influence": 1,
+    "show_influence": false,
+    "target_page": "training_final_shoot_first"
+  },
+  {
+    "page_name": "training_final_dont_shoot",
+    "description": "You decide to try to get a better look to make sure its not your team",
+    "influence": 0,
+    "show_influence": false,
+    "target_page": "training_out"
+  },
+  {
+    "page_name": "training_final_shoot_first",
+    "description": "Go in guns blazing",
+    "influence": 1,
+    "show_influence": false,
+    "target_page": "training_final_guns_blazing"
+  },
+  {
+    "page_name": "training_final_shoot_first",
+    "description": "Sneak in and flank",
+    "influence": 2,
+    "show_influence": false,
+    "target_page": "training_final_sneak_in"
+  },
+  {
+    "page_name": "training_final_shoot_first",
+    "description": "Double back to get behind them",
+    "influence": 0,
+    "show_influence": false,
+    "target_page": "training_final_double_back"
+  },
+  {
+    "page_name": "training_final_guns_blazing",
+    "description": "Continue",
+    "influence": 0,
+    "show_influence": false,
+    "target_page": "merc_start_checkpoint"
+  },
+  {
+    "page_name": "training_final_sneak_in",
+    "description": "Continue",
+    "influence": 0,
+    "show_influence": false,
+    "target_page": "merc_start_checkpoint"
+  },
+  {
+    "page_name": "training_final_double_back",
+    "description": "Continue",
+    "influence": 0,
+    "show_influence": false,
+    "target_page": "merc_start_checkpoint"
+  },
+  {
+    "page_name": "merc_start_checkpoint",
+    "description": "Start Over",
+    "influence": 0,
+    "show_influence": false,
+    "target_page": "start"
+  },
+  {
+    "page_name": "training_final_out",
+    "description": "Try Again",
+    "influence": 0,
+    "show_influence": false,
+    "target_page": "start"
+  }
+
+  ]
+}

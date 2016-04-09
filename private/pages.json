@@ -1,0 +1,147 @@
+{
+  "pages": [
+  {
+    "page_name": "start",
+    "body": ["You have set out to make your fortune in the universe. Starting in the capital city of your home country on your home planet. All you have to your name is a basic laser pistol, a little money and a desire for adventure.",
+    "You saw and advertisement for a mercenary group that promised good pay and adventure and are on your way to join up. When you get to the meeting place, there are about 100 other people in a large group. A militiristic looking man comes out and addresses everyone. \"We only have 5 openings and we don't have time to get personal references and do interviews with everybody so we are going to have a field test using non-lethal weapons. Those still interested, get onboard the armored transport and you will receive further instructions.\"",
+    "Everybody is interested and they actually have to bring another transport. Each constestant is given a training rifle that tags the target with a stinging shot, immobilizing anyone shot in the body or head. The field test will be an every man for himself type of event.",
+    "The transports take you to a shipyard with a large spaceship under construction.  The test is going to be tournament style in rounds of 25 with the best 5 from each group advancing. Your round is first, you hear over the ship's intercom \"Guns activated, start.\" Ahead of you is a T split in the hallway. You hear shots being fired already on the right and you think you see someone run through a doorway to the left. Doorways are closing behind you so you can't go back the way you came."
+    ]
+  },
+  {
+    "page_name": "training_1_right",
+    "body": [
+      "You decide your best chance of getting the highest score is to go to where the shots are being fired. You head down the hallway to the right and come to a large cargo bay with a full on firefight in progress. It looks like at least 10 other people in your group are spread throughout the room shooting at each other. You have the high ground and a tough shot on another guy with high ground who has 3 other guys pinned. Or you could try to snipe the three guys below but you don't yet have cover and the other guy with high ground might get you if you do."
+    ]
+  },
+  {
+    "page_name": "training_1_left",
+    "body": [
+      "It seems to you that sneaking up on someone who is running away is less likely to get you taken out, so you go down the left hallway towards the door. You peak around the corner and see someone sprawled face down. They have clearly already been shot in the back. You hear footsteps behind you."
+      ]
+  },
+  {
+    "page_name": "training_2_possom",
+    "body": [
+      "You decide to pretend to be shot as well and slump down against the wall. The person coming down the hall pauses when he sees you and the other guy on the floor, looks around then continues down the hallway. As soon as he is past you, you put 2 shots into his back. You double check behind you, then continue down the hallway yourself."
+      ]
+  },
+  {
+    "page_name": "training_2_turn_shoot",
+    "body": [
+      "Your turn and shoot at the same time as the guy coming around the corner. Both of you miss but you suprised him so much that he falls down giving you an opportunity for a second shot which doesn't miss. You continue down the hallway."
+      ]
+  },
+  {
+    "page_name": "training_2_cargo_high",
+    "body": [
+      "You decide to go for the tough shot. He is distracted by the sporadic return fire from the 3 guys below and doesn't notice you first shot miss. You second shot hits him square in the face and he collapses in a heap. You then turn on the 3 guys below. You get 2 of them but the third runs out of the lower area and out of sight. However you see him fall immediately back into the room with a little twitch. Somebody else got him. You climb down, carefully checking your surroundings and head for a doorway on the far wall."
+      ]
+  },
+  {
+    "page_name": "training_2_cargo_3",
+    "body": [
+      "You decide to go for the 3 guys below while you have a good shot. After taking out 1, the other 2 notice you and 1 of them starts shooting your way forcing you to dive for cover. You take a quick peek and see one of them get hit from the other guy with high ground and the third runs into the hallway behind him but falls back into the room with a little twitch. Somebody else got him. The other contestant with high ground has disappeared. You climb down, carefully checking your surroundings and head for a doorway on the far wall."
+      ]
+  },
+  {
+    "page_name": "training_2_cargo_cover",
+    "body": [
+      "Best to have some cover before revealing your presence. You take cover behind a large crate as one of the contestants on the floor takes a shot. Your first shot gets one of them causing the third to run away into the hall behind him. However you see him fall immediately back into the room with a little twitch. Somebody else got him. The other contestant with high ground has disappeared. You climb down, carefully checking your surroundings and head for a doorway on the far wall."
+      ]
+  },
+  {
+    "page_name": "training_3_hangar_bay",
+    "body": [
+      "You come to the hangar of the ship and the door of the hallway shuts behind you. A shot whizzes by your shoulder, narrowly missing. There is a box to your right but you don't know whats behind it. You could start shooting back or immediately dive for cover."
+      ]
+  },
+  {
+    "page_name": "training_3_run_and_shoot",
+    "body": [
+      "You send a few shots into the hangar as you run towards a crate for cover. You feel a sting in your leg and a tingle run up your body, a siren plays and a voice comes over the intercom saying \"Round over. Congratulations to the 5 remaining contestants.\" You sit there cursing yourself, then realize that you are not paralyzed. Luckily one of your wild shots hit the contestant who was firing at you. It seems you have survived to the finals."
+      ]
+  },
+  {
+    "page_name": "training_3_dive_for_cover",
+    "body": [
+      "You dive behind the nearest crate, but your foot doesn't make it and you feel a sharp pain run up you leg as you drag it completely behind the crate.  As you get behind the crate you see one of the contestants pop out from a doorway with a clear shot at you. Just when you know you are about to be shot, a siren plays and a voice comes over the intercom saying \"Round over. Congratulations to the 5 remaining contestants.\" It seems you have survived to the finals."
+      ]
+  },
+  {
+    "page_name": "training_final",
+    "body": [
+      "Although you didn't have the best score, you made it through round 1. While you wait on the other rounds to finish you chat with the others from your group and find out that a few of the others where grouping up in the previous round and you agree that it would be in your best interest to work as a team in the final round. There are two men and two women in your group. The woman who was about to shoot you at the end of the first round had the most eliminations so you all agree that she is captain of your group. You agree to meet up in the hangar of the ship at the beginning of the next round."
+      ]
+  },
+  {
+    "page_name": "training_final_1",
+    "body": [
+      "It is time for the last 25 people to be weeded out. You go back into the spaceship and this time you start out in the hangar. You could take up a position at one of the hallways or you could find a good place to ambush anybody who comes through that is not in your group."
+      ]
+  },
+  {
+    "page_name": "training_final_ambush",
+    "body": [
+      "Ambush sounds like a great plan. You take a concealed position on a stack of crates that gives you a clear view of the room. Moments later, two people come running into the room. From your vantage point you can clearly see that they are not in your group. They dive behind some boxes as everyone you teamed up with comes through the hallway behind them firing away. Using the opportunity provided by the distraction, you shoot both of them.",
+      "Now that your whole team is together, you decide to split into two groups and start hunting the remaining contestants. You the captain and one of the other guys head down the north hallway while the other two head down the western hallway. You soon come to the cargo area where it appears a full on firefight is in progress. It seems the other half of your team is pinned down on the other side of the room and 7 other contestants are spread out filling the room with the stinging bolts. Nobody has noticed your group yet and you have a few options on what to do as you enter the battle."
+      ]
+  },
+  {
+    "page_name": "training_final_leapfrog",
+    "body": [
+      "The captain likes your leapfrog suggestion. The three of you take turns providing cover fire and advancing into flanking positions. Pretty soon all remaining contestants are eliminated and the interview is complete. Looks like you made it."
+      ]
+  },
+  {
+    "page_name": "training_final_diversion",
+    "body": [
+      "You suggest using the small lift vehicle near the entrance to create a diversion. The captain replies \"Let's see what you got.\" You power on the lift and send it towards the cover of a team of two. The lift knocks away the cover suprising and exposing the pair of contestants who are taken out quickly. Your team quickly takes our the remainder of the contestants except for the last guy who gets a lucky hit on one of the guys in your team, ending the interview. Looks like you made it."
+      ]
+  },
+  {
+    "page_name": "training_final_hallway",
+    "body": [
+      "If anybody is coming, you want to see them as early as possible. You take up a position by one of the hallway entrances that gives you a little cover from anybody coming in from the other entrance. Seconds later, two people come running into the room from the other hallway. They don't look like anybody from your group but you can't tell for sure. You have a clear shot on the last one that came out of the hallway."
+      ]
+  },
+  {
+    "page_name": "training_final_shoot_first",
+    "body": [
+      "You quickly line up your sights and get a clean torso hit. As they fall you can see that luckily they were not part of your alliance. Four more people come running into the hangar. This is your team. One of the guys takes a shot to the face from the contestant who came in a moment ago. The other three dive for cover and return fire. This forces the shooter to shift around his cover and become exposed to you. You put 4 shots across his arm and side taking him out, then call to your team.",
+      "After regrouping, the captain decides that it would be best to hunt down the remaining contestants. Strength in numbers. You and her head down the hallway going north and the other two members of your team head down the hallway to the west. You are doing a sort of leapfrog from cover to cover when you come to the cargo area. Inside you see that one of the other members of your team is down and the other is pinned behind a piece of machinery and it appears that there are only 5 contestants left besides the 3 remaining on your team. They are all in the room and none of them are taking chances at getting eliminated. Two of them even apear to be working together.",
+      "To end it you only need to take out 3 more people. You could suggest to double back and find a way up to the high positions. Another option would be to sneak into the room and flank one of the groups.  A final option would be to run in guns blazing while everyone is distracted."
+      ]
+  },
+  {
+    "page_name": "training_final_guns_blazing",
+    "body": [
+      "You suggest to your captain that you go in guns blazing and take them by suprise in the confusion. She looks at you funny for a second, shrugs and then starts sprinting into the room to the right, pointing for you to go left. The fast pincer movement works and you both have good angles on the other 5 contestants. You get one and your captain gets one and the distraction opens up for the pinned member of your team to get one, ending the interview. Looks like you made it."
+      ]
+  },
+  {
+    "page_name": "training_final_sneak_in",
+    "body": [
+      "\"We could sneak in and flank them,\" you whisper. With a nod your captain starts moving right and signals you to the left. You get behind the team of two without anyone seeing you and get them both with one shot each. This allows your pinned teammate to slide around to better cover and as one of the other contestants repositionsyour team captain shoots him ending the interview. Looks like you made it."
+      ]
+  },
+  {
+    "page_name": "training_final_double_back",
+    "body": [
+      "\"We could double back and come in from the high side,\" you whisper. The captain shakes her head and says, \"No time,\" right before she dashes into the room to the right, signaling for you to flank left. You get around behind two of the contestants just in time to see them get shot by the captain of your alliance. Your pinned teamate seizes on the distraction to get one more, ending the interview. Looks like you made it."
+      ]
+  },
+  {
+    "page_name": "merc_start_checkpoint",
+    "body": [
+      "Congratulations you managed to ace the interview. You are now an official member of Micha's Mercs. A life of adventure awaits."
+      ]
+  },
+  {
+    "page_name": "training_out",
+    "body": [
+      "Looks like you didn't make the cut and will have to wait for the next opening or find somewhere else to work. The life of adventure will have to wait. At least you are a little wiser and not dead."
+      ]
+  }
+  ]
+}
